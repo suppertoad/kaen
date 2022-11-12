@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"Mischevious",
+			"kaen",
+			[
+				255,
+				20,
+				135
+			]
+		],
+		[
+			"Flame",
+			"kaen",
+			[
+				255,
+				20,
+				135
+			]
+		],
+		[
+			"Scribble",
+			"kaen",
+			[
+				255,
+				20,
+				135
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "custom",
+	"difficulties": "",
+	"weekCharacters": [
+		"kaen",
+		"bf",
+		"gf"
+	],
+	"storyName": "VS Kaen",
+	"weekName": "kaen",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
